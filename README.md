@@ -191,8 +191,8 @@ Because I don’t think like a developer. **I think in:**
   
   <br/>
   
-  <p><b>Contribution Momentum</b></p>
-  <img src="https://raw.githubusercontent.com/AnaySharmaCEO/AnaySharmaCEO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <p><b>Activity Momentum</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaySharmaCEO&theme=react-dark&hide_border=true&area=true&bg_color=00000000" width="100%" />
 </div>
 
 ---
