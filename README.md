@@ -1,17 +1,30 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Anay Sharma</h1>
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?q=80&w=1474&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 12px; margin-bottom: 10px;" />
+  
+  <br/>
 
-<p align="center">
-  Founder • Ascendancy <br/>
-  Systems > Aesthetics • Behavior > Features
-</p>
+  <h1>Anay Sharma</h1>
+  <p><b>Founder • Ascendancy</b></p>
+  <p>Systems > Aesthetics • Behavior > Features</p>
 
-<p align="center">
-  <a href="mailto:anaysharmabiz@gmail.com">
-    <img src="https://img.shields.io/badge/Work_With_Me-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+  <p>
+    <a href="mailto:anaysharmabiz@gmail.com">
+      <img src="https://img.shields.io/badge/Work_With_Me-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/anaysharmabiz/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+MacroScope;Scaling+Ascendancy;Engineering+Behavior;Removing+Friction">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Building+MacroScope;Scaling+Ascendancy;Engineering+Behavior;Removing+Friction">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Building+MacroScope;Scaling+Ascendancy;Engineering+Behavior;Removing+Friction">
+  </picture>
+</div>
 
 ---
 
@@ -24,13 +37,13 @@ Most developers build:
 - apps  
 - features  
 
-I build:
+**I build:**
 
-> systems that influence behavior, remove friction, and drive action
+> **systems that influence behavior, remove friction, and drive action**
 
-Because at the end of the day:
+Because:
 
-> if it doesn’t convert, it doesn’t work
+> **if it doesn’t convert, it doesn’t matter**
 
 ---
 
@@ -38,16 +51,14 @@ Because at the end of the day:
 
 ## 🧠 Who I Am
 
-I’m the founder of **Ascendancy** — a web development agency focused on building performance-driven digital systems.
+Founder of **Ascendancy** — a performance-focused web development agency.
 
-I work at the intersection of:
-- product  
-- psychology  
-- conversion  
+I operate at the intersection of:
+- **product**  
+- **psychology**  
+- **conversion**  
 
-Not just how something looks.
-
-But how it **behaves**.
+Not just how something looks. **But how it moves people to act.**
 
 ---
 
@@ -55,23 +66,21 @@ But how it **behaves**.
 
 ## ⚙️ Ascendancy
 
-> Not a typical web dev agency.
+> Most products fail silently.
 
-Ascendancy exists to solve one core problem:
+Not because they’re broken. Because they don’t guide behavior.
 
-**Most digital products are built to exist — not to perform.**
+**Ascendancy fixes that.**
 
 We build systems that:
 - capture attention  
-- guide user behavior  
+- structure user flow  
 - convert intent into action  
 
-From landing pages to full platforms, the objective is always:
-
 ```diff
-+ Reduce friction
-+ Increase clarity
-+ Drive measurable outcomes
++ Less friction
++ More clarity
++ Measurable outcomes
 ```
 
 ---
@@ -81,21 +90,17 @@ From landing pages to full platforms, the objective is always:
 ## 🧩 What I Do
 
 ### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart,python,cpp,rust,postgres" />
+<p> 
+  <img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart,python,cpp,rust,postgres,supabase,vite,tailwind" /> 
 </p>
 
-- React / TypeScript / JavaScript  
-- Flutter / Dart  
-- Python  
-- C++ / Rust  
-- PostgreSQL  
-
----
+- **React / TypeScript / JavaScript**
+- **Flutter / Dart**
+- **Python**
+- **C++ / Rust**
+- **PostgreSQL**
 
 ### 🧠 Beyond Code (Where Most Stop)
-
 ```diff
 + Lead Acquisition Systems
 + Funnel Architecture
@@ -104,48 +109,35 @@ From landing pages to full platforms, the objective is always:
 + Email & Web Marketing
 ```
 
-> I don’t just build the product.  
-> I engineer what happens after it's launched.
+> *Code builds the product. Systems make it perform.*
 
 ---
 
-<!-- ================= WHAT I'M BUILDING ================= -->
+<!-- ================= WHAT I’M BUILDING ================= -->
 
 ## 🚀 What I’m Building
 
 ### 🧠 MacroScope (Early Access)
+Most apps track. **MacroScope explains.**
+*When X happens → Y follows*
 
-MacroScope is not a tracker.
-
-It’s a system designed to help users understand:
-
-> how their daily behaviors affect their energy, focus, and life patterns
-
-Instead of:
-- logging data  
-- showing dashboards  
-
-It focuses on:
+It helps users understand:
+- how behavior affects energy
+- what patterns drive outcomes
+- what to change next
 
 ```diff
 + Pattern detection
-+ Cause → effect relationships
++ Cause → effect clarity
 + Behavior-driven insights
 + One clear action per day
 ```
 
-> When X happens → Y tends to follow
-
-That’s the core.
-
----
-
-### ⚡ Ascendancy (Scaling Phase)
-
-Currently focused on:
-- building high-converting digital systems  
-- working with outcome-focused clients  
-- refining performance-driven product design  
+### ⚡ Ascendancy (Scaling)
+Focused on:
+- high-converting systems
+- outcome-driven builds
+- clients who care about results
 
 ---
 
@@ -153,37 +145,22 @@ Currently focused on:
 
 ## 🧭 Philosophy
 
-Most people optimize for:
-- more features  
-- more tools  
-- more complexity  
+Most people add more. **I remove what doesn’t matter.**
 
-I optimize for:
+> **clarity → cause → effect → action**
 
-> clarity → cause → effect → action
-
-Because once you understand:
-- what drives behavior  
-- what removes friction  
-- what creates decisions  
-
-You don’t need hacks.
-
-You build things that work.
+Once that’s clear: **Everything else becomes predictable.**
 
 ---
 
 <!-- ================= DIFFERENTIATION ================= -->
 
-## 📊 Subtle Signal
+## 📊 Signal
+- **No freelance platforms**
+- **Direct outreach → direct deals**
+- **Tech + psychology + marketing combined**
 
-- I don’t rely on freelance platforms  
-- I do direct outreach, close, and deliver  
-- I combine tech + psychology + marketing  
-
-Which means:
-
-> I understand both the system **and** the user inside it
+I understand both the system and the person using it.
 
 ---
 
@@ -191,30 +168,41 @@ Which means:
 
 ## 🤝 Why People Work With Me
 
-Because I don’t think like a typical developer.
+Because I don’t think like a developer. **I think in:**
+- **outcomes**
+- **behavior**
+- **leverage**
 
-I focus on:
-- outcomes, not output  
-- behavior, not just UI  
-- performance, not just deployment  
+```diff
++ Not just built
++ Not just deployed
++ Built to perform
+```
 
-I don’t disappear after building.
+---
 
-I stay aligned with what actually matters:
+<!-- ================= STATS & ANIMATION ================= -->
 
-> Does it work?
+## 📈 Activity Signal
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnaySharmaCEO&show_icons=true&theme=omni&hide_border=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaySharmaCEO&layout=compact&theme=omni&hide_border=true&bg_color=00000000" height="150" />
+  
+  <br/>
+  
+  <p><b>Contribution Momentum</b></p>
+  <img src="https://raw.githubusercontent.com/AnaySharmaCEO/AnaySharmaCEO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <!-- ================= CURRENT FOCUS ================= -->
 
 ## 🎯 Current Focus
-
-```diff
-+ Scaling Ascendancy
-+ Building MacroScope into a real product
-+ Working with people who care about results
-```
+- 🚀 Scaling **Ascendancy**
+- 🧠 Building **MacroScope** into a real product
+- 🤝 Working with **high-intent builders**
 
 ---
 
@@ -223,36 +211,25 @@ I stay aligned with what actually matters:
 ## 📩 Work With Me
 
 If your product:
-- isn’t converting  
-- feels unclear  
-- or isn’t performing the way it should  
+- isn’t converting
+- feels unclear
+- or underperforms
 
-There’s a deeper reason.
+**There’s a reason. Let’s fix that.**
 
-Let’s fix that.
+<p> 
+  <a href="mailto:anaysharmabiz@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a> 
+</p> 
 
-<p>
-  <a href="mailto:anaysharmabiz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="left"> 
+  <a href="https://www.instagram.com/anaysharmabiz/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" width="30"/> 
   </a>
-</p>
-
-<p align="left">
-  <!-- Link to Profile (Logo) -->
-  <p align="left">
-  <!-- Instagram Logo linking to Profile -->
-  <a href="https://www.instagram.com/anaysharmabiz/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png?_=20200512141346" alt="Instagram" width="30" height="30" style="vertical-align:middle">
-  </a>
-
   &nbsp;&nbsp;
-
-  <!-- Plain text link to DM -->
-  <a href="https://ig.me/m/anaysharmabiz/" target="_blank" style="text-decoration:none; vertical-align:middle; font-weight:bold;">
-    DM Me
-  </a>
+  <a href="https://ig.me/m/anaysharmabiz/" target="_blank"> <b>DM Me</b> </a> 
 </p>
-
 
 ---
 
@@ -260,8 +237,6 @@ Let’s fix that.
 
 ## ⚡ Final Note
 
-> While others build and destroy,
-> I just build — and build more.
+While others build and destroy, **I just build — and build more.**
 
-Consistency compounds.
-That’s the edge.
+Consistency compounds. **That’s the edge.**
