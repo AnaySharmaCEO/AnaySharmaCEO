@@ -62,7 +62,7 @@ Not just how something looks. **But how it moves people to act.**
 
 ---
 
-<!-- ================= ASCENDANCY ================= -->
+<!--- ================= ASCENDANCY ================= --->
 
 ## ⚙️ Ascendancy
 
